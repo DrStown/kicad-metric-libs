@@ -11,12 +11,12 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "J"
-			(at -1 2.5 0)
+			(at 0 2.5 0)
 			(effects
 				(font
 					(size 1 1)
 				)
-				(justify left bottom)
+				(justify bottom)
 			)
 		)
 		(property "Value" "2POS"
@@ -138,12 +138,12 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "J"
-			(at -1 3.5 0)
+			(at 0 3.5 0)
 			(effects
 				(font
 					(size 1 1)
 				)
-				(justify left bottom)
+				(justify bottom)
 			)
 		)
 		(property "Value" "3POS"
@@ -294,12 +294,12 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "J"
-			(at -1 4.5 0)
+			(at 0 4.5 0)
 			(effects
 				(font
 					(size 1 1)
 				)
-				(justify left bottom)
+				(justify bottom)
 			)
 		)
 		(property "Value" "4POS"
