@@ -61,7 +61,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_fp_filters" "MCP2517FD*"
+		(property "ki_fp_filters" "MCP2517FD_*"
 			(at 0 0 0)
 			(effects
 				(font
@@ -233,7 +233,7 @@
 				(start -10 11)
 				(end 10 -11)
 				(stroke
-					(width 0.25)
+					(width 0.2)
 					(type solid)
 				)
 				(fill
